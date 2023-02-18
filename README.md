@@ -17,4 +17,8 @@ flutter create -platform=windows .
 
 ```
 
+## Release
+
+>Extract Release to the same directory as widget_design
+
 ![](./screenshot/preview.gif)
