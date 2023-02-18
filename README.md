@@ -24,6 +24,7 @@ flutter create -platform=windows .
 ![](./screenshot/preview.gif)
 
 ## Awesome Packages
+
 * [json_dynamic_widget](https://pub.dev/packages/json_dynamic_widget)
 * [equatable](https://pub.dev/packages/equatable)
 * [provider](https://pub.dev/packages/provider)
