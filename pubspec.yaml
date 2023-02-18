@@ -1,0 +1,19 @@
+name: widget_design_previewer
+description: preview multi flutter page demos in one window
+version: 0.0.1
+homepage: https://github.com/zhangwb1996/widget_design_previewer
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
