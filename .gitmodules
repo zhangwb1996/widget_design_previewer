@@ -1,8 +1,8 @@
 [submodule "flutter_demo_previewer"]
 	path = flutter_demo_previewer
-	url = git@github.com:zhangwb1996/flutter_demo_previewer.git
+	url = https://github.com/zhangwb1996/flutter_demo_previewer.git
 	branch = pre
 [submodule "widget_design"]
 	path = widget_design
-	url = git@github.com:zhangwb1996/widget_design.git
+	url = https://github.com/zhangwb1996/widget_design.git
 	branch = pre
