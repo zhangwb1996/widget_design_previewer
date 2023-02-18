@@ -1,6 +1,6 @@
 # widget_design_perviewer
 
-## Usage
+## Build
 
 ```bash
 # clone this repository with the submodules
@@ -22,3 +22,9 @@ flutter create -platform=windows .
 >Extract Release to the same directory as widget_design
 
 ![](./screenshot/preview.gif)
+
+## Awesome Packages
+* [json_dynamic_widget](https://pub.dev/packages/json_dynamic_widget)
+* [equatable](https://pub.dev/packages/equatable)
+* [provider](https://pub.dev/packages/provider)
+* [flutter_treeview](https://pub.dev/packages/flutter_treeview)
