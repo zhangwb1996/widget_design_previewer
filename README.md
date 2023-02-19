@@ -21,7 +21,7 @@ flutter create -platform=windows .
 
 >Extract Release to the same directory as widget_design
 
-![](./screenshot/preview.gif)
+![gif](./screenshot/v0.0.2.gif)
 
 ## Awesome Packages
 
@@ -29,3 +29,5 @@ flutter create -platform=windows .
 * [equatable](https://pub.dev/packages/equatable)
 * [provider](https://pub.dev/packages/provider)
 * [flutter_treeview](https://pub.dev/packages/flutter_treeview)
+* [flutter-code-editor](https://pub.dev/packages/flutter_code_editor/install)
+* [highlight](https://pub.dev/packages/highlight)
