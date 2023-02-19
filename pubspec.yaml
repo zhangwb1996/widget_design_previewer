@@ -1,6 +1,6 @@
 name: widget_design_previewer
 description: preview multi flutter page demos in one window
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/zhangwb1996/widget_design_previewer
 
 environment:
