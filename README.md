@@ -31,3 +31,4 @@ flutter create -platform=windows .
 * [flutter_treeview](https://pub.dev/packages/flutter_treeview)
 * [flutter-code-editor](https://pub.dev/packages/flutter_code_editor/install)
 * [highlight](https://pub.dev/packages/highlight)
+* [Blur](https://pub.dev/packages/blur)
