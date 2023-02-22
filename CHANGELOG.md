@@ -4,8 +4,12 @@
 
 ## [v0.0.2]
 
->Added code preview
+Added code preview
 
 ## [v0.0.3]
 
->Global searching navigation
+Global searching navigation
+
+### [v0.0.3.1]
+
+Improved: resetting previewBuilder and codeBuilder

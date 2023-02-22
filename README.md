@@ -19,9 +19,9 @@ flutter create -platform=windows .
 
 ## Release
 
->Extract Release to the same directory as widget_design
+> **Extract Release to the same directory as widget_design**
 
-![gif](./screenshot/v0.0.2.gif)
+![video](./screenshot/WDP.v0.0.3.1.gif)
 
 ## Awesome Packages
 
