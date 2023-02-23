@@ -12,4 +12,8 @@ Global searching navigation
 
 ### [v0.0.3.1]
 
-Improved: resetting previewBuilder and codeBuilder
+Fixed: incorrect previewBuilder and codeBuilder
+
+### [v0.0.3.2]
+
+Improved: searching blur
