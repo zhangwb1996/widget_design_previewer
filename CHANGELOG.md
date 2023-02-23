@@ -16,4 +16,4 @@ Fixed: incorrect previewBuilder and codeBuilder
 
 ### [v0.0.3.2]
 
-Improved: searching blur
+Improved: blur
