@@ -21,7 +21,7 @@ flutter create -platform=windows .
 
 > **Extract Release to the same directory as widget_design**
 
-![WDP](https://github.com/zhangwb1996/screenshot/blob/main/WDP/WDP.v0.0.3.1.gif)
+![WDP](https://github.com/zhangwb1996/screenshot/blob/main/WDP/WDP.v1.0.0.mp4)
 
 ## Awesome Packages
 

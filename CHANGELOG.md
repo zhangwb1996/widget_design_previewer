@@ -17,3 +17,7 @@ Fixed: incorrect previewBuilder and codeBuilder
 ### [v0.0.3.2]
 
 Improved: blur
+
+## [v1.0.0]
+
+Resize
