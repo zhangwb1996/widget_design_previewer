@@ -25,10 +25,11 @@ flutter create -platform=windows .
 
 ## Awesome Packages
 
-* [json_dynamic_widget](https://pub.dev/packages/json_dynamic_widget)
-* [equatable](https://pub.dev/packages/equatable)
-* [provider](https://pub.dev/packages/provider)
-* [flutter_treeview](https://pub.dev/packages/flutter_treeview)
-* [flutter-code-editor](https://pub.dev/packages/flutter_code_editor/install)
-* [highlight](https://pub.dev/packages/highlight)
-* [Blur](https://pub.dev/packages/blur)
+| Pub | Repository |
+| ----|---- |
+| [json_dynamic_widget](https://pub.dev/packages/json_dynamic_widget)         | [json_dynamic_widget](https://github.com/peiffer-innovations/json_dynamic_widget)
+| [provider](https://pub.dev/packages/provider)                               | [provider](https://github.com/rrousselGit/provider)
+| [flutter_treeview](https://pub.dev/packages/flutter_treeview)               | [flutter_treeview](https://bitbucket.org/kevinandre/flutter_treeview/src/master/)
+| [flutter-code-editor](https://pub.dev/packages/flutter_code_editor/install) | [flutter-code-editor](https://github.com/akvelon/flutter-code-editor)
+| [highlight](https://pub.dev/packages/highlight)                             | [highlight](https://github.com/git-touch/highlight.dart)
+| [Blur](https://pub.dev/packages/blur)                                       | [Blur](https://github.com/jagritjkh/blur)
