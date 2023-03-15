@@ -17,6 +17,43 @@ flutter create -platform=windows .
 
 ```
 
+## How to new page demo
+
+* Add the single file of your page demo wherever under the path which is `widget_design/lib/src/preview`.
+* **Put you target class at the first**. the `preview` suffix is recommended.
+* A sample example below:
+
+    ```dart
+    // put yout target class at the first of all class in your single file
+    class TargetClassPreview extends StatefulWidget {
+        ...
+    }
+    class ClassA {
+        ...
+    }
+    class ClassB  {
+        ...
+    }
+    class ClassC {
+        ...
+    }
+    ```
+
+* Run below command at you command line
+
+    ```shell
+    dart cd flutter_demo_previewer
+
+    # generate _builder.dart files
+    dart ./lib/tools/dir/dynamic_widget_helper.dart pre
+
+    # clean and regenerate all the _builder.dart files
+    dart ./lib/tools/dir/dynamic_widget_helper.dart clean
+    dart ./lib/tools/dir/dynamic_widget_helper.dart pre
+    ```
+
+* **hot-reload is not supported, so restart this app**, then you can search it by the name of your target class, and preview it in the app.
+
 ## Release
 
 > **Extract Release to the same directory as widget_design**
