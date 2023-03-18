@@ -39,6 +39,8 @@ flutter create -platform=windows .
     }
     ```
 
+* **Add export into `widget_design/lib/src/preview/widget.dart`**
+
 * Run below command at you command line
 
     ```shell
