@@ -20,12 +20,12 @@ flutter create -platform=windows .
 ## How to new page demo
 
 * Add the single file of your page demo wherever under the path which is `widget_design/lib/src/preview`.
-* **Put you target class at the first**. the `preview` suffix is recommended.
+* **Put you target class at the first**.
 * A sample example below:
 
     ```dart
     // put yout target class at the first of all class in your single file
-    class TargetClassPreview extends StatefulWidget {
+    class TargetClass extends StatefulWidget {
         ...
     }
     class ClassA {
