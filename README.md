@@ -2,18 +2,28 @@
 
 ## Build
 
+Recommended clone the origin repositoies instead of this reposiroty.
+
 ```bash
-# clone this repository with the submodules
+
+### Not recommended clone this repository with the submodules
 git clone https://github.com/zhangwb1996/widget_design_previewer.git --recursive
 
+### Recommended 
+mkdir wdp
+git clone https://github.com/zhangwb1996/flutter_demo_previewer.git -pre
+git clone https://github.com/zhangwb1996/widget_design.git -pre
+# open with your vscode or other IDE
+code . 
+# get the packages from pub.dev, something like this:
+flutter pub get
+# then
 cd flutter_demo_previewer
 
-flutter pub get
-
-# create a support for your platform
+### create a support for your platform
 flutter create -platform=windows .
 
-# run main of flutter_demo_previewer in your IDE or command
+### run main of flutter_demo_previewer in your IDE or command
 
 ```
 
