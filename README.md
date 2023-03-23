@@ -2,7 +2,7 @@
 
 ## Build
 
-Recommended clone the origin repositoies instead of this reposiroty.
+Recommended clone the **newest** origin repositoies instead of this reposiroty.
 
 ```bash
 
