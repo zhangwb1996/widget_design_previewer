@@ -68,7 +68,7 @@ flutter create -platform=windows .
     dart ./lib/tools/dir/dynamic_widget_helper.dart pre
     ```
 
-* **hot-reload is not supported, so restart this app**, then you can search it by the name of your target class, and preview it in the app.
+* **hot-reload is not supported, so restart this App**. Then you can search it by name of your target class, and preview it in this App.
 
 ## Release
 
