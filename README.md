@@ -1,4 +1,4 @@
-# widget_design_perviewer
+# widget_perviewer
 
 ## Build
 
@@ -10,7 +10,7 @@ Recommended clone the **newest** origin repositoies instead of this reposiroty.
 git clone https://github.com/zhangwb1996/widget_design_previewer.git --recursive
 
 ### Recommended 
-mkdir wdp
+mkdir widget_perviewer
 git clone https://github.com/zhangwb1996/flutter_demo_previewer.git -pre
 git clone https://github.com/zhangwb1996/widget_design.git -pre
 # open with your vscode or other IDE
@@ -50,6 +50,10 @@ flutter create -platform=windows .
     ```
 
 * **Add export into `widget_design/lib/src/preview/widget.dart`**
+
+    ```dart
+    export 'file.dart' show TargetClass
+    ```
 
 * Run below command at you command line
 
