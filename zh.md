@@ -4,7 +4,7 @@
 
 ## 编译
 
-`widget_perviewer`=`widget_previewer -pre` + `flutter_demo_previewer -pre` 推荐直接获取最新仓库代码.
+`widget_perviewer`=`widget_design -pre` + `flutter_demo_previewer -pre` 推荐直接获取最新仓库代码.
 
 ```bash
 
