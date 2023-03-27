@@ -9,7 +9,7 @@ Recommended clone the **newest** origin repositoies instead of this reposiroty.
 ```bash
 
 ### Not recommended clone this repository with the submodules
-git clone https://github.com/zhangwb1996/widget_design_previewer.git --recursive
+git clone https://github.com/zhangwb1996/widget_previewer.git --recursive
 
 ### Recommended 
 mkdir widget_perviewer

@@ -4,12 +4,12 @@
 
 ## 编译
 
-`widget_perviewer`=`widget_design_previewer -pre` + `flutter_demo_previewer -pre` 推荐直接获取最新仓库代码.
+`widget_perviewer`=`widget_previewer -pre` + `flutter_demo_previewer -pre` 推荐直接获取最新仓库代码.
 
 ```bash
 
 ### 不推荐
-git clone https://github.com/zhangwb1996/widget_design_previewer.git --recursive
+git clone https://github.com/zhangwb1996/widget_previewer.git --recursive
 
 ### 推荐 
 mkdir widget_perviewer
