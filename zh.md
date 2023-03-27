@@ -2,37 +2,37 @@
 
 [English](./README.md) | [简体中文](./zh.md)
 
-## Build
+## 编译
 
-Recommended clone the **newest** origin repositoies instead of this reposiroty.
+`widget_perviewer`=`widget_design_previewer -pre` + `flutter_demo_previewer -pre` 推荐直接获取最新仓库代码.
 
 ```bash
 
-### Not recommended clone this repository with the submodules
+### 不推荐
 git clone https://github.com/zhangwb1996/widget_design_previewer.git --recursive
 
-### Recommended 
+### 推荐 
 mkdir widget_perviewer
 git clone https://github.com/zhangwb1996/flutter_demo_previewer.git -pre
 git clone https://github.com/zhangwb1996/widget_design.git -pre
-# open with your vscode or other IDE
+# 用VSCode或者其他IDE打开
 code . 
-# get the packages from pub.dev, something like this:
+# 更新依赖
 flutter pub get
 # then
 cd flutter_demo_previewer
 
-### create a support for your platform (linux, windows, macOS)
+### 新增依赖平台的代码(linux, windows, macOS)
 flutter create -platform=windows .
 
-### run main of flutter_demo_previewer in your IDE or command
+### 运行flutter_demo_previewer项目下的main.dart
 
 ```
 
-## How to new page demo
+## 如何自建demo
 
-* Add the single file of your page demo wherever under the path which is `widget_design/lib/src/preview`.
-* **Put you target class at the first**.
+* 把demo放到`widget_design/lib/src/preview`这个路径下(具体位置随意)。
+* **把demo需要入口类放到第一个**.
 * A sample example this:
 
     ```dart
@@ -70,11 +70,13 @@ flutter create -platform=windows .
     dart ./lib/tools/dir/dynamic_widget_helper.dart pre
     ```
 
-* **hot-reload is not supported, so restart this App**. Then you can search it by name of your target class, and preview it in this App.
+* **不支持热更新**. 需要重启app.
 
 ## Release
 
-> **Extract Release to the same directory as `widget_design`**
+> **把Release解压到和`widget_design`项目相同的目录**
+
+(科学上网预览下面的gif)
 
 ![WDP](https://github.com/zhangwb1996/screenshot/blob/main/WDP/WDP.v1.0.0.gif)
 
