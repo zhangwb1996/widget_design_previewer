@@ -13,6 +13,7 @@ git clone https://github.com/zhangwb1996/widget_previewer.git --recursive
 
 ### 推荐 
 mkdir widget_perviewer
+cd widget_perviewer
 git clone https://github.com/zhangwb1996/flutter_demo_previewer.git -pre
 git clone https://github.com/zhangwb1996/widget_design.git -pre
 # 用VSCode或者其他IDE打开
